@@ -1,0 +1,41 @@
+{
+  "identity": {
+    "language": {
+      "value": "Telugu",
+      "updated": "2026-10-26"
+    },
+    "gender": {
+      "value": "female",
+      "updated": "2026-10-26"
+    }
+  },
+  "preferences": {
+    "wants_to_learn_german": {
+      "value": "true",
+      "updated": "2026-10-27"
+    }
+  },
+  "projects": {
+    "avatar_movements_documentation": {
+      "value": "User is referring to project documentation about avatar facial movements, specifically lip syncing, listening status, and thinking state.",
+      "updated": "2026-10-26"
+    }
+  },
+  "relationships": {},
+  "wishes": {},
+  "notes": {
+    "user_speaks_telugu": {
+      "value": "true",
+      "updated": "2026-10-27"
+    }
+  },
+  "sessions": [],
+  "monitors": {
+    "world_news": {
+      "topic": "world news",
+      "added": "2026-10-27",
+      "last_check": "2026-10-27",
+      "last_hash": ""
+    }
+  }
+}
